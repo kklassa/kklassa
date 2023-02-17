@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello There :alien:
+
+My name is Kacper and I am studying **Computer Science** @ Warsaw University of Technology :rocket: with speciality in **Artificial Intelligence** :brain:
+
+I am passionate about **DevOps** :whale: :cloud:, **Web Development** :snake: ⚛, **Computer Vision** :robot: and **Computer Graphics** :ice_cube:
+
+If you'd like to contact me, feel free to reach out on [**LinkedIn**](https://www.linkedin.com/in/kacper-klassa/) :blue_square:
 
 <!--
 **kklassa/kklassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
