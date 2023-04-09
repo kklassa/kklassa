@@ -1,4 +1,4 @@
-### Hello There :alien:
+### Hello There 🤠
 
 My name is Kacper and I am studying **Computer Science** @ Warsaw University of Technology :rocket:
 
