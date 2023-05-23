@@ -5,13 +5,15 @@ My name is Kacper and I am studying **Computer Science** @ Warsaw University of 
 I program in  
 * 🐍 Python  
 * 🐹 Go
-* 🦀 Rust  
+* 🪟 C#
 * ⚛️ JavaScript
+* 🦀 Rust (at least I'd like to)  
 
 
 I am passionate about   
 * 🧠 Artificial Intelligence  
 * 🤖 Computer Vision  
+* 🌐 Web Development
 * 🐳 Distributed Systems  
 * ♾️ DevOps  
 * 🧊 Computer Graphics 
