@@ -2,10 +2,14 @@
 
 My name is Kacper and I am studying **Computer Science** @ Warsaw University of Technology :rocket:
 
-I program in  
+I program in 🐍 Python, 🐹 Go, ⚛️ JavaScript and recently 🪟 C#.  
+
+I am passionate about 🧠 Artificial Intelligence, 🌐 Web Development, 🐳 Distributed Systems and ♾️ DevOps.
+
+<!-- I program in  
 * 🐍 Python  
 * 🐹 Go
-* 🪟 C#
+* 🪟 C# :C:
 * ⚛️ JavaScript
 * 🦀 Rust (at least I'd like to)  
 
@@ -16,7 +20,7 @@ I am passionate about
 * 🌐 Web Development
 * 🐳 Distributed Systems  
 * ♾️ DevOps  
-* 🧊 Computer Graphics 
+* 🧊 Computer Graphics  -->
 
 
 <!--
