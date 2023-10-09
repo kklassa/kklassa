@@ -4,7 +4,7 @@ My name is Kacper and I am studying **Computer Science** @ Warsaw University of 
 
 I usually code in 🐍 Python and 🪟 C#.  
 
-I am passionate about 🧠 Artificial Intelligence, 🐳 DevOps and 🥽 eXtended Reality.
+I am passionate about 🧠 Artificial Intelligence, 🐳 DevOps and ☁️ Cloud Computing.
 
 <!-- I program in  
 * 🐍 Python  
