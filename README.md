@@ -2,9 +2,11 @@
 
 My name is Kacper and I am studying **Computer Science** @ Warsaw University of Technology :rocket:
 
-I usually code in 🐍 Python and 🪟 C#.  
+I currenly work as a Machine Learning Engineer at Accenture 💜.
 
-I am passionate about 🧠 Artificial Intelligence, 🐳 DevOps and ☁️ Cloud Computing.
+My go-to programming languages are 🐍 Python and 🪟 C#.  
+
+I am passionate about 🧠 Artificial Intelligence, ☁️ Cloud, 🐳 DevOps and 🥽 Extended Reality.
 
 <!-- I program in  
 * 🐍 Python  
